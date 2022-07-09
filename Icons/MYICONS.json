@@ -1,1 +1,15 @@
-{"name":"MYICONS", "description":"Just for fun", "icons":[{"name":"Kuromis", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/Kuromis.png"}, {"name":"Kuromis_1", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/Kuromis_1.png"}]}
+{"name":"MYICONS", "description":"Just for fun", "icons":[
+    {"name":"Google", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/Google.png"},
+    {"name":"Instagram", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/Instagram.png"},
+    {"name":"Kuromis", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/Kuromis.png"},
+    {"name":"Kuromis_1", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/Kuromis_1.png"},
+    {"name":"Netflix", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/Netflix.png"},
+    {"name":"Speedtest", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/Speedtest.png"},
+    {"name":"Spotify", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/Spotify.png"},
+    {"name":"Steam", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/Steam.png"},
+    {"name":"Telegram", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/Telegram.png"},
+    {"name":"TikTok", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/TikTok.png"},
+    {"name":"YouTube", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/YouTube.png"},
+    {"name":"YouTube_1", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/YouTube_1.png"},
+    {"name":"YouTube_2", "url":"https://raw.githubusercontent.com/EvilxTuS/MyAssets/main/Icons/YouTube_2.png"}
+]}
